@@ -19,7 +19,7 @@
   
  ## 授权信息 
   
- 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。
+ 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Stick](https://github.com/fontworks-fonts/Stick) 开源项目。
   
  > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。 
   
