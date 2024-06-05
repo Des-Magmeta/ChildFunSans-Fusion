@@ -12,8 +12,8 @@
 - **游趣黑 融合 G**：中国大陆标准字形优先，与「站酷快乐体」「Stick」依次合并而成；  
 - **游趣黑 融合 J**：日本标准字形优先，与「游趣黑」「站酷快乐体」依次合并而成；  
 - **游趣黑 融合 Z**：汉字部分使用「站酷快乐体」字形，与「Stick」合并而成。
-![Example](https://github.com/Des-Magmeta/ChildFunSans-Fusion/assets/125174106/6c78cc14-cd26-4318-927f-bd8280c469d3)
-  
+![Example](https://github.com/Des-Magmeta/ChildFunSans-Fusion/assets/125174106/3c0d435b-d442-462f-8364-94bdb9e1c043)
+
  ## 注意事项 
  本字体在简体中文环境下的名称为「游趣黑 融合」，请留意。 
   
