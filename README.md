@@ -1,5 +1,7 @@
+> 各位站长可以不用收录此字体项目。
+
 # Child Fun Sans Fusion / 游趣体 融合 
- 「游趣体」「Stick」与「站酷快乐体」的合并字体。 
+ 「游趣体」「Stick」与「站酷快乐体」的合并字体，用于缺字时回退到风格相近的字体。 
    
  ## 介绍 
 将[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)[「Stick」](https://github.com/fontworks-fonts/Stick)[「站酷快乐体」](https://github.com/googlefonts/zcool-kuaile)等字体相互合并制成的、字形风格相近的字体。 
@@ -11,7 +13,7 @@
  ## 包含字体
 - **游趣体融合 G**：中国大陆字形优先，与「站酷快乐体」「Stick」依次合并而成；  
 - **游趣体融合 J**：日本字形优先，与「游趣体」「站酷快乐体」依次合并而成；  
-- **游趣体融合 Z**：汉字部分使用「站酷快乐体」字形，与「Stick」合并而成。  
+- **游趣体融合 Z**：汉字部分优先使用「站酷快乐体」字形，与「Stick」合并而成。  
 ![Example](https://github.com/Des-Magmeta/ChildFunSans-Fusion/assets/125174106/3c0d435b-d442-462f-8364-94bdb9e1c043)
 
  ## 注意事项 
