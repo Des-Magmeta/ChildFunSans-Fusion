@@ -1,8 +1,10 @@
 > 各位站长可以不用收录此字体项目。
 
-# Child Fun Sans Fusion / 游趣体 融合 
- 「游趣体」「Stick」与「站酷快乐体」的合并字体，用于缺字时回退到风格相近的字体。 
-   
+# Child Fun Sans Fusion / 游趣体 融合  
+「游趣体」「Stick」与「站酷快乐体」的合并字体，用于缺字时回退到风格相近的字体。  
+
+考虑到目前「游趣体」项目未补全 GB/T 2312 的所有字符，该项目仅作为临时过渡方案供用户使用。待原项目「游趣体」补齐 GB/T 2312 包含的所有汉字后，此项目将停止更新。
+
  ## 介绍 
 将[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)[「Stick」](https://github.com/fontworks-fonts/Stick)[「站酷快乐体」](https://github.com/googlefonts/zcool-kuaile)等字体相互合并制成的、字形风格相近的字体。 
   
