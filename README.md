@@ -17,7 +17,8 @@
 - **游趣体融合 G**：中国大陆字形优先，与「站酷快乐体」「Stick」依次合并而成；  
 - **游趣体融合 J**：日本字形优先，与「游趣体」「站酷快乐体」依次合并而成；  
 - **游趣体融合 Z**：汉字优先使用「站酷快乐体」字形，与「游趣体」合并而成。  
-![Example](https://github.com/Des-Magmeta/ChildFunSans-Fusion/assets/125174106/3c0d435b-d442-462f-8364-94bdb9e1c043)
+![Example](https://github.com/user-attachments/assets/6def61eb-4a7b-4541-bcd4-3f820d231ba9)
+
 
  ## 注意事项 
  本仓库中的字体在简体中文环境下的名称分别为「游趣体融合 G」「游趣体融合 J」和「游趣体融合 Z」，请留意。 
