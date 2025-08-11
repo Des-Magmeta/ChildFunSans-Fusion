@@ -9,8 +9,13 @@
 
  ## 介绍 
 将[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)[「Stick」](https://github.com/fontworks-fonts/Stick)[「站酷快乐体」](https://github.com/googlefonts/zcool-kuaile)等字体相互合并制成的、字形风格相近的字体。 
+
 字体名称灵感来源于[「缝合怪像素字体」](https://github.com/TakWolf/fusion-pixel-font)。 
+
 利用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。
+
+其实严格意义上讲，「站酷快乐体」并不是「游趣体」和「Stick」的最佳搭配，但此仓库建立之初是为了解决部分「游趣体」字符数量不足时，字体回退至宋体的问题，这一回退相当糟糕。与其如此，不如「手动设置」，使其回退到字体风格相近的字体，如「站酷快乐体」。  
+尽管「站酷快乐体」的设计并非完美，甚至有许多隐藏的设计问题，与「游趣体」和「Stick」本身并不契合，但在协议限制之下，我们当时只能选择这一字体，作为「Stick」「游趣体」的后备字体。
 
  ## 包含字体
 - **游趣体融合 G**：中国大陆字形优先，与「站酷快乐体」「Stick」依次合并而成；  
