@@ -3,8 +3,9 @@
 # Child Fun Sans Fusion / 游趣体 融合  
 「游趣体」「Stick」与「站酷快乐体」的合并字体，用于缺字时回退到风格相近的字体。  
 
-> 考虑到目前「游趣体」项目未补全 GB/T 2312 的所有字符，该项目仅作为临时过渡方案供用户使用，同时亦用于在主仓库正式发行版本前的先行测试。  
-> 待原项目「游趣体」补齐 GB/T 2312 包含的所有汉字后，此项目将停止更新，届时此项目将留档处理。
+> [!Note]
+> 该项目「游趣体」诞生于补全 GB/T 2312 的所有字符前，仅作为临时过渡方案供用户使用，同时亦用于在主仓库正式发行版本前的先行测试。  
+> 原项目「游趣体」已补齐 GB/T 2312 包含的所有汉字，此项目已发布最终版，并宣布**永久停止更新，留档处理**。
 
  ## 介绍 
 将[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)[「Stick」](https://github.com/fontworks-fonts/Stick)[「站酷快乐体」](https://github.com/googlefonts/zcool-kuaile)等字体相互合并制成的、字形风格相近的字体。 
@@ -25,8 +26,7 @@
   
  ## 授权信息 
   
- 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Stick](https://github.com/fontworks-fonts/Stick) 开源项目。
-  
+ 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Stick](https://github.com/fontworks-fonts/Stick) 开源项目；
  > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。 
   
  ### 许可 
