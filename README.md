@@ -1,11 +1,12 @@
 > 各位站长可以不用收录此字体项目。此项目已永久停更。
 
+This repo stopped committing at 2:00 AM(GMT+8), August 12.
 # Child Fun Sans Fusion / 游趣体 融合  
 「游趣体」「Stick」与「站酷快乐体」的合并字体，用于缺字时回退到风格相近的字体。  
 
 > [!Note]
 > 该项目诞生于原项目「游趣体」诞生之初，在其补全 GB/T 2312 的所有字符前，仅作为临时过渡方案供用户使用，同时亦用于在主仓库正式发行版本前的先行测试。  
-> 「游趣体」已补齐 GB/T 2312 包含的所有汉字，此项目已发布最终版，并宣布**永久停止更新，留档处理**。
+> 「游趣体」已补齐 [GB/T 2312](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC) 包含的所有汉字，此项目已发布最终版，并宣布**永久停止更新，留档处理**。
 
  ## 介绍 
 将[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)[「Stick」](https://github.com/fontworks-fonts/Stick)[「站酷快乐体」](https://github.com/googlefonts/zcool-kuaile)等字体相互合并制成的、字形风格相近的字体。 
@@ -22,6 +23,8 @@
 至于 J 版和 Z 版，考虑到维护能力有限，无暇维护这两版，故决定停更处理。J 版中非《常用漢字表》的字形，我们将在未来的「游趣体」TC 版（繁体中文版）中呈现，还请诸位期待。
 
 事已至此，项目已毕。此项目已封存，而[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)还在更新的路上。
+
+> 注：GB/T 2312 原文收录的「鍾」是繁体，其简体字「锺」位于《通用规范汉字表》而 GB/T 2312 不包含。
 
  ## 包含字体
 - **游趣体融合 G**：中国大陆字形优先，与「站酷快乐体」「Stick」依次合并而成；  
