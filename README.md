@@ -1,6 +1,5 @@
 > 各位站长可以不用收录此字体项目。此项目已永久停更。
 
-This repo stopped committing at 11:11 AM(GMT+8), August 12.
 # Child Fun Sans Fusion / 游趣体 融合  
 「游趣体」「Stick」与「站酷快乐体」的合并字体，用于缺字时回退到风格相近的字体。  
 
