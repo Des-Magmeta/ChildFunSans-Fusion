@@ -1,6 +1,6 @@
 > 各位站长可以不用收录此字体项目。此项目已永久停更。
 
-This repo stopped committing at 2:00 AM(GMT+8), August 12.
+This repo stopped committing at 11:11 AM(GMT+8), August 12.
 # Child Fun Sans Fusion / 游趣体 融合  
 「游趣体」「Stick」与「站酷快乐体」的合并字体，用于缺字时回退到风格相近的字体。  
 
@@ -11,13 +11,13 @@ This repo stopped committing at 2:00 AM(GMT+8), August 12.
  ## 介绍 
 将[「游趣体」](https://github.com/Des-Magmeta/ChildFunSans)[「Stick」](https://github.com/fontworks-fonts/Stick)[「站酷快乐体」](https://github.com/googlefonts/zcool-kuaile)等字体相互合并制成的、字形风格相近的字体。 
 
-字体名称灵感来源于[「缝合怪像素字体」](https://github.com/TakWolf/fusion-pixel-font)，利用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。
+字体名称灵感来源于[「缝合怪像素字体」](https://github.com/TakWolf/fusion-pixel-font)，利用[魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger)合并。
 
-其实严格意义上讲，「站酷快乐体」并不是「游趣体」和「Stick」的最佳搭配，但此仓库建立之初是为了解决「游趣体」字符数量不足时，字体回退至宋体的问题，这一回退相当糟糕。与其如此，不如「手动设置」，使其回退到字体风格相近的字体，如「站酷快乐体」。  
+实际上，「站酷快乐体」并不是「游趣体」和「Stick」的最佳搭配，但此仓库建立之初是为了解决「游趣体」字符数量不足时，字体回退至宋体的问题，这一回退相当糟糕。与其如此，不如「手动设置」，使其回退到字体风格相近的字体，如「站酷快乐体」。  
 
 尽管「站酷快乐体」的设计并非完美，甚至有许多隐藏的设计问题，与「游趣体」和「Stick」本身并不契合，但在协议限制之下，我们当时只能选择这一字体，作为「Stick」「游趣体」的后备字体。
 
-不过，「站酷快乐体」也仅仅支持 [GB/T 2312](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC) 所收录的汉字，至于此标准之外的汉字，就回退到「Stick」，或者是未来版本的「游趣体」了。而「游趣体」的汉字补全是必然的，在补全GB/T 2312 之后，除非让「站酷快乐体」的字形优先显示，否则也不会调用此字体了。至此，G 版完成了它的使命。  
+不过，「站酷快乐体」也仅仅支持 [GB/T 2312](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC) 所收录的汉字，至于此标准之外的汉字，就回退到「Stick」，或者是未来版本的「游趣体」了。而「游趣体」的汉字补全是必然的，在补全 GB/T 2312 之后，除非让「站酷快乐体」的字形优先显示，否则也不会调用此字体了。至此，G 版完成了它的使命。  
 
 至于 J 版和 Z 版，考虑到维护能力有限，无暇维护这两版，故决定停更处理。J 版中非《常用漢字表》的字形，我们将在未来的「游趣体」TC 版（繁体中文版）中呈现，还请诸位期待。
 
@@ -43,7 +43,7 @@ This repo stopped committing at 2:00 AM(GMT+8), August 12.
   
  - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）* 
  - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。 
- - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://scripts.sil.org/OFL) 公开。 
+ - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL 1.1](https://scripts.sil.org/OFL) 公开。 
   
  ### 限制 
   
